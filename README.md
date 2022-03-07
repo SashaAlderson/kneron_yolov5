@@ -1,5 +1,5 @@
 # Kneron YOLOv5
-This repository contains benchmarks of YOLOv5, that i've done on NPU Kneron-720.
+This repository contains benchmarks of YOLOv5, that i've done on NPU Kneron-720 and Kneron-520.
 
 ## Yolov5S
 I used Kneron's best model as a baseline, they trained model for 600 epochs. All my models was trained for 600 epochs with standard training routine.
