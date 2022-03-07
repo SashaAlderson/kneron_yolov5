@@ -33,3 +33,5 @@ I also tested YOLOv5n for weaker Kneron KL-520 using fresh YOLOv5n models from [
 |   YOLOv5n-leaky      |    640     |           0.269               |             0.246             |       10.19       |          
 |   YOLOv5n-leaky      |    416     |           0.236               |             0.221             |       23.06       |                 
 
+# Conclusions
+YOLOv5m with 352x352 resolution can outperform YOLOv5s in both accuracy and speed, so it's smarter to use bigger models with smaller images for NPU. 
